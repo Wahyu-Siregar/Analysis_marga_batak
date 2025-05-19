@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg/640px-Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg" alt="Batak Traditional House" width="400"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg/640px-Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ahnenhaus_der_Batak_Toba.jpg/500px-Ahnenhaus_der_Batak_Toba.jpg)" alt="Batak Traditional House" width="400"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,6 @@
 - [Dataset](#-dataset)
 - [Metodologi](#-metodologi)
 - [Hasil & Performa](#-hasil--performa)
-- [Visualisasi](#-visualisasi)
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Reproduksi](#-reproduksi)
 - [Kesimpulan & Insight](#-kesimpulan--insight)
@@ -172,26 +171,6 @@ Random Forest dengan fitur gabungan (nama marga + deskripsi) dan parameter:
 
 ---
 
-## 📊 Visualisasi
-
-Proyek ini mencakup visualisasi komprehensif:
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x200?text=Distribusi+Label" alt="Distribusi Label"/></td>
-      <td><img src="https://via.placeholder.com/400x200?text=Performa+Model" alt="Performa Model"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x200?text=Confusion+Matrix" alt="Confusion Matrix"/></td>
-      <td><img src="https://via.placeholder.com/400x200?text=Feature+Importance" alt="Feature Importance"/></td>
-    </tr>
-  </table>
-</div>
-
-<p align="center"><i>Placeholder untuk visualisasi. Generate visualisasi aktual dengan menjalankan kode.</i></p>
-
----
 
 ## 🚀 Cara Penggunaan
 
