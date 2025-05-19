@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg/640px-Batak_Toba_traditional_house_symbolizing_the_cosmos.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ahnenhaus_der_Batak_Toba.jpg/500px-Ahnenhaus_der_Batak_Toba.jpg)" alt="Batak Traditional House" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ahnenhaus_der_Batak_Toba.jpg/500px-Ahnenhaus_der_Batak_Toba.jpg" alt="Batak Traditional House" width="400"/>
 </p>
 
 <p align="center">
