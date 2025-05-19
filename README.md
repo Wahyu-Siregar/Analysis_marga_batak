@@ -62,6 +62,7 @@ Model ini mengklasifikasikan apakah suatu marga ada ("Y") atau tidak ada ("T") p
 Dataset berisi **349 marga Batak** dengan distribusi yang tidak seimbang (imbalanced) pada setiap sub-etnis.
 
 ### Struktur Data
+
 <div align="center">
   
 | Kolom | Deskripsi |
@@ -79,6 +80,7 @@ Dataset berisi **349 marga Batak** dengan distribusi yang tidak seimbang (imbala
 | `"Description"` | Deskripsi lengkap marga |
 
 </div>
+
 ### Distribusi Label
 
 <div align="center">
